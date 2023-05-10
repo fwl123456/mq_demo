@@ -1,0 +1,3 @@
+cn\itcast\mq\config\FanoutConfig.class
+cn\itcast\mq\ConsumerApplication.class
+cn\itcast\mq\listener\SpringRabbitListener.class
